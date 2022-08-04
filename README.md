@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarrylWilliams32
-- 👀 I’m interested in Android App Development and Web Development via Wordpress.
-- 🌱 I have experience with html, css, php, javascript, kotlin, and ruby. I can also use tools such as bootstrap and local to quickly implement Wordpress sites. I use Android           studio to quickly and efficiently deploy andoid apps. 
-- 💞️ I’m looking to collaborate on small Android app projects to gain more experience/build portfolio
+- 👀 I’m interested in web application development; preferably with PEGA platform.
+- 🌱 I have experience with html, css, php, javascript, kotlin, ruby, and python. I recently finished training with Genspark and learned how to utilize the PEGA platform to quickly and effectively build internal and customer facing applications. 
+- 💞️ I’m looking to collaborate on small-medium web applications that will allow me to grow in my web development skillset.
 - 📫 I can best be reached at my email: DarrylWilliams6@Gmail.com
 
 <!---
