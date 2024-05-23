@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @DarrylWilliams32
 - 👀 I’m interested in web application development
-- I got into web development because I enjoyed it and it challenged me mentally.
- !["Mindblown gif"](https://images.app.goo.gl/e5ahDTtVMrFsbXp39)
-
-  
 - 🌱 I have experience with html, css, php, javascript, kotlin, ruby, and python. I recently finished training with Genspark and learned how to utilize the PEGA platform to quickly and effectively build internal and customer facing applications. 
 - 💞️ I’m looking to collaborate on small-medium web applications that will allow me to grow in my web development skillset.
 - 📫 I can best be reached at my email: DarrylWilliams6@Gmail.com
